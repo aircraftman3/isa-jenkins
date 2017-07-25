@@ -1,0 +1,14 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "My simple app",
+  "main": "myapp.js",
+  "scripts": {
+    "test": "echo \"OK\""
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "Putin na koniu",
+  "license": "ISC"
+}
